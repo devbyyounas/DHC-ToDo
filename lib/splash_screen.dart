@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:task_3/login.dart';
 
 class SplashScreen extends StatefulWidget {
+  const SplashScreen({super.key});
+
   @override
   _SplashScreenState createState() => _SplashScreenState();
 }
